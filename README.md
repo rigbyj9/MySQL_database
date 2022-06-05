@@ -22,7 +22,7 @@ Programming Language: MySQL, Python
 {Make a list of websites that you found helpful in this project}
 * [W3 Schools](https://www.w3schools.com/)
 * [PYnative](https://www.pynative.com)
-* [GeeksforGeeks](https://www.geeksforgeeks.com)
+* [GeeksforGeeks](https://www.geeksforgeeks.org)
 
 # Future Work
 
