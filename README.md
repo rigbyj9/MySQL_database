@@ -2,8 +2,7 @@
 
 I created a database that holds the inventory to the video games I own. 
 
-I wanted to create this database to see how big my inventory was without having to comb through old cases and search high ->
-and low for all of my games.
+I wanted to create this database to see how big my inventory was without having to go through old cases and search high and low for all of my games.
 
 [Software Demo Video](https://youtu.be/oTLVAZcJSOs)
 
@@ -22,7 +21,8 @@ Programming Language: MySQL, Python
 
 {Make a list of websites that you found helpful in this project}
 * [W3 Schools](https://www.w3schools.com/)
-* [PYnative](https://pynative.com)
+* [PYnative](https://www.pynative.com)
+* [GeeksforGeeks](https://www.geeksforgeeks.com)
 
 # Future Work
 
